@@ -1,9 +1,13 @@
 # # Polish Theme for [Visual Studio Code](http://code.visualstudio.com)
 
-
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![dark view](./assets/view-dark.png "Polish Theme Dark")
+**Dark**
+![dark view](./assets/polish-dark.png "Polish Theme Dark")
+
+**Light**
+
+![ligth view](./assets/polish-light.png "Polish Theme light")
 
 ## Installation
 
@@ -13,3 +17,7 @@
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 5. Select **Preferences: Polish Theme** and choose a Horizon variant.
 6. Enjoy! 🎉
+
+## License
+
+[MIT](./LICENSE.txt)

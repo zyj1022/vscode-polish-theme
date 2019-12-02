@@ -2,9 +2,9 @@
   "name": "polish-theme",
   "displayName": "Polish Theme",
   "description": "A vibrant theme for VSCode.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.40.2"
   },
   "maintainers": [
     "ZhiKing <zyj10222@126.com>"
@@ -20,15 +20,23 @@
   "keywords": [
     "polish",
     "dark",
+    "light",
     "theme",
     "color-theme"
   ],
   "icon": "icon.png",
   "contributes": {
-    "themes": [{
-      "label": "Polish Theme",
-      "uiTheme": "vs-dark",
-      "path": "./themes/polish.dark.json"
-    }]
-  }
+		"themes": [
+			{
+				"label": "Polish Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/polish.dark.json"
+			},
+			{
+				"label": "Polish Light",
+				"uiTheme": "vs",
+				"path": "./themes/polish.light.json"
+			}
+		]
+	}
 }
