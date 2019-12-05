@@ -554,7 +554,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#845ef7"
+        "foreground": "#FF83AC"
       }
     },
     {
@@ -711,7 +711,7 @@
         "keyword.operator.function.infix"
       ],
       "settings": {
-        "foreground": "#B1E3A7"
+        "foreground": "#62D2B2"
       }
     },
     {
