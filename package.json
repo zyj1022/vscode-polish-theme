@@ -24,7 +24,7 @@
     "theme",
     "color-theme"
   ],
-  "icon": "./assets/icon.png",
+  "icon": "assets/icon.png",
   "contributes": {
 		"themes": [
 			{
