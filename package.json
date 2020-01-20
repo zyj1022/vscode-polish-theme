@@ -2,9 +2,9 @@
   "name": "polish-theme",
   "displayName": "Polish Theme",
   "description": "A vibrant theme for VSCode.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
-    "vscode": "^1.40.2"
+    "vscode": "^1.41.1"
   },
   "maintainers": [
     "ZhiKing <zyj10222@126.com>"
@@ -24,7 +24,7 @@
     "theme",
     "color-theme"
   ],
-  "icon": "icon.png",
+  "icon": "./assets/icon.png",
   "contributes": {
 		"themes": [
 			{
