@@ -4,7 +4,7 @@
   "description": "A vibrant theme for VSCode.",
   "version": "0.0.5",
   "engines": {
-    "vscode": "^1.41.1"
+    "vscode": "^1.53.4"
   },
   "maintainers": [
     "ZhiKing <zyj10222@126.com>"
